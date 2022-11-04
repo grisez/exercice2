@@ -6,4 +6,4 @@
 
 [cindy](./grisez.md)
 
-<a href="./Theo.md">Lien</a>
+[Lien](./Theo.md)
