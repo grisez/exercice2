@@ -1,4 +1,4 @@
 Theo
 blabla
 <a href="./README.md">Lien</a>
-<img src="./Photo.png">
+<img src="images/Photo.png">
