@@ -1,8 +1,8 @@
-[./mohamed.md](Mohamed)
+[Mohamed](./mohamed.md)
 
 [Tommy](./tommy.md)
 
-[Aller vers ROMAIN.md](/ROMAIN.md)
+[Romain](/ROMAIN.md)
 
 [cindy](./grisez.md)
 
