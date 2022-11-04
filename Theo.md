@@ -1,4 +1,4 @@
 Theo
 blabla
-<a href="./README.md">Lien</a>
-<img src="./Photo.png">
+[Theo](./Theo.md)
+<img src="images/Photo.png">
